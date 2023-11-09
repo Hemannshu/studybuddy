@@ -56,9 +56,9 @@
 
 - Django Learning Curve: Learning Django, especially if it's your first time using the framework, can be challenging. Overcoming this challenge likely involved investing time in learning Django through documentation, tutorials, and practical exercises.
 
--User Authentication and Security: Implementing secure user authentication and password hashing can be complex. To overcome this challenge, you may have leveraged Django's built-in authentication system and followed best practices for securing user data.
+- User Authentication and Security: Implementing secure user authentication and password hashing can be complex. To overcome this challenge, you may have leveraged Django's built-in authentication system and followed best practices for securing user data.
 
--Real-Time Chat and Collaboration: Building real-time chat functionality within study groups might have required integrating WebSockets or a third-party library like Django Channels. You might have overcome this challenge by carefully researching and implementing real-time features.
+- Real-Time Chat and Collaboration: Building real-time chat functionality within study groups might have required integrating WebSockets or a third-party library like Django Channels. You might have overcome this challenge by carefully researching and implementing real-time features.
 
 ### Cloning the repository
 
