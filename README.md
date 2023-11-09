@@ -4,11 +4,67 @@
 # StudyBuddy
 </div>
 
+**StudyBuddy** is a Python-based web application built using the Django framework, designed to simplify and enhance the study experience for students. It offers a range of features that improve organization, collaboration, and productivity.
+
+## Key Features
+
+### User Authentication
+
+- Secure user registration and login system.
+- Password hashing and salting for enhanced security.
+
+### Dashboard
+
+- A personalized dashboard for each user.
+- Display upcoming assignments, tasks, and reminders.
+
+### Task Management
+
+- Create, edit, and delete tasks and assignments.
+- Categorize tasks by subject or due date.
+- Mark tasks as complete.
+
+### Collaboration Tools
+
+- Collaborative study groups creation and management.
+- Real-time chat within study groups.
+- Share files, notes, and resources within study groups.
+
+### Resource Repository
+
+- Upload and categorize study materials, notes, and files.
+- Easily search and access resources as needed.
+
+### Calendar and Reminders
+
+- Add study sessions and events to the calendar.
+- Set reminders for important deadlines and tasks.
+
+### Progress Tracking
+
+- Track and visualize your study progress over time.
+- Generate reports and statistics to assess productivity.
+
+## Technologies Used
+
+- Django framework
+- Python
+- HTML, CSS, JavaScript
+- Database (e.g., SQLite or PostgreSQL)
+
+## Challenges Overcome
+
+- Django Learning Curve: Learning Django, especially if it's your first time using the framework, can be challenging. Overcoming this challenge likely involved investing time in learning Django through documentation, tutorials, and practical exercises.
+
+-User Authentication and Security: Implementing secure user authentication and password hashing can be complex. To overcome this challenge, you may have leveraged Django's built-in authentication system and followed best practices for securing user data.
+
+-Real-Time Chat and Collaboration: Building real-time chat functionality within study groups might have required integrating WebSockets or a third-party library like Django Channels. You might have overcome this challenge by carefully researching and implementing real-time features.
+
 ### Cloning the repository
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/hemannshu/StudyBud.git
 
 ```
 
